@@ -1,6 +1,6 @@
 /*打開python程式源碼進行修改*/
 /*這題主要是縮排修正，以及結束while迴圈*/
-
+``` python
 import random
 
 def str_xor(secret, key):
@@ -20,3 +20,5 @@ flag_enc = chr(0x15) + chr(0x07) + chr(0x08) + chr(0x06) + chr(0x27) + chr(0x21)
   
 flag = str_xor(flag_enc, 'enkidu')
 print('That is correct! Here\'s your flag: ' + flag)
+```
+![image](https://user-images.githubusercontent.com/72643996/218243766-9fcf010c-e8ba-438b-9461-7c14ba3719e0.png)
