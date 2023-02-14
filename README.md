@@ -3,4 +3,4 @@
 ------
 | Category filter | Link |
 | ----- | -------- |
-|**General Skills**|(https://play.picoctf.org/practice?category=5&page=1)|
+|**General Skills**|[General Skills](https://play.picoctf.org/practice?category=5&page=1)|
