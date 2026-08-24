@@ -51,4 +51,6 @@ step3 = urllib.parse.unquote(step2)
 step4 = codecs.decode(step3, 'rot_13')
 print(step4)
 ```
+<img width="1148" height="444" alt="image" src="https://github.com/user-attachments/assets/a740c1e3-4a0e-4417-afa6-fd3865b12f29" />
+
 
