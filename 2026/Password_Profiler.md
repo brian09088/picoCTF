@@ -11,7 +11,7 @@
 解題流程是：
 
 1. 讀取個人資訊
-2. 使用 CUPP 根據個人資訊產生客製化密碼字典
+2. 使用 [CUPP](https://github.com/Mebus/cupp/tree/master) 根據個人資訊產生客製化密碼字典
 3. 將產生的字典命名為 `passwords.txt`
 4. 執行 `check_password.py` 找出正確密碼
 
